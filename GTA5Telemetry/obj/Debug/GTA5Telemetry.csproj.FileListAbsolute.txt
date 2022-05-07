@@ -1,0 +1,6 @@
+C:\Users\nicol\Source\Repos\GTA5Telemetry\GTA5TelemetryProject\GTA5Telemetry\obj\Debug\GTA5Telemetry.csproj.AssemblyReference.cache
+C:\Users\nicol\Source\Repos\GTA5Telemetry\GTA5TelemetryProject\GTA5Telemetry\obj\Debug\GTA5Telemetry.csproj.CoreCompileInputs.cache
+I:\SteamLibrary\steamapps\common\Grand Theft Auto V\scripts\GTA5Telemetry.dll.config
+C:\Users\nicol\source\repos\GTA5Telemetry\GTA5TelemetryProject\GTA5Telemetry\obj\Debug\GTA5Telemetry.dll
+C:\Users\nicol\source\repos\GTA5Telemetry\GTA5TelemetryProject\GTA5Telemetry\obj\Debug\GTA5Telemetry.pdb
+C:\Users\nicol\source\repos\GTA5Telemetry\GTA5TelemetryProject\GTA5Telemetry\obj\Debug\GTA5Telemetry.csproj.SuggestedBindingRedirects.cache
